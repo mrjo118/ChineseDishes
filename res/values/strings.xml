@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chinese Dishes</string>
+    <string name="action_settings">Settings</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="empty"></string>
+    <string name="hello">Hello World</string>
+    <string name="item_image_description">Photo of the dish</string>
+    <string name="title_activity_add_edit">Add / Edit Dish</string>
+    <string name="title_activity_add">Add Dish</string>
+    <string name="title_activity_edit">Edit Dish</string>
+    <string name="txt_name">Enter dish name</string>
+    <string name="txt_desc">Enter description</string>
+    <string name="txt_price">Enter price (£)</string>
+    <string name="txt_email">Enter email address</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="image_selected">Image Selected</string>
+    <string name="save">Save</string>
+    <string name="return_name">Name</string>
+    <string name="return_desc">Description</string>
+    <string name="return_price">Price</string>
+    <string name="finish">Finish</string>
+    <string name="confirmation">Your dish has been added. An email has been sent to</string>
+    <string name="error_title">Error</string>
+    <string name="error_name">You must enter a name</string>
+    <string name="error_desc">You must enter a description</string>
+    <string name="error_price_1">You must enter a price</string>
+    <string name="error_price_2">Price is too long</string>
+    <string name="error_price_3">Price must have no more than 2 decimal places</string>
+    <string name="error_email_1">You must enter an email</string>
+    <string name="error_email_2">You must enter a valid email</string>
+    <string name="prompt_import_title">Import confirmation</string>
+    <string name="prompt_import">Are you sure you want to import a backed up database? This will overwrite the current database</string>
+    <string name="mainitem1">Add</string>
+    <string name="mainitem2">Import</string>
+    <string name="mainitem3">Export</string>
+    <string name="contextitem1">View / Edit</string>
+    <string name="contextitem2">Delete</string>
+    <string name="edititem1">Cancel</string>
+    <string name="edititem2">Clear image</string>
+    <color name="main_background">#f2f2e8</color>
+
+</resources>

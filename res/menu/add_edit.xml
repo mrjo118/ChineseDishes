@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/cancel"
+	    android:icon="@drawable/ic_menu_close_clear_cancel"
+		android:title="@string/edititem1" />
+	<item android:id="@+id/clear"
+	    android:icon="@drawable/ic_input_delete"
+		android:title="@string/edititem2" />
+</menu>
